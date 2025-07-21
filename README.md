@@ -80,4 +80,4 @@ This project is intended for academic use only.
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/JeevithaAnandhan/Data_analysis.git
